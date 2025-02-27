@@ -1,3 +1,5 @@
+Massive WIP. Just playing around
+
 # AI Food Finding Game
 
 A simple web-based game where two AIs compete to find and eat food items. As they eat, they grow larger, similar to the game "Grow".
