@@ -1,0 +1,24 @@
+{
+    "name": "ai-food-finding-game",
+    "version": "1.0.0",
+    "description": "A simple game where AIs find and eat food items",
+    "main": "index.js",
+    "scripts": {
+      "start": "serve -s .",
+      "build": "echo 'No build step required for static HTML/JS'"
+    },
+    "keywords": [
+      "game",
+      "ai",
+      "canvas",
+      "javascript"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "serve": "^14.2.0"
+    },
+    "devDependencies": {
+      "prettier": "^2.8.8"
+    }
+  }
